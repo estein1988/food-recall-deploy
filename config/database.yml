@@ -7,7 +7,7 @@ default: &default
 
 development:
   <<: *default
-  database: recalls_dev
+  database: food_recall_dev
 
 test:
   <<: *default

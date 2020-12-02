@@ -45,4 +45,4 @@ gem 'json'
 gem 'pry'
 gem 'require_relative'
 gem 'require'
-gem 'figaro'
+gem "figaro"
